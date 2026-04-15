@@ -1,0 +1,52 @@
+{
+  "campaigns": [
+    {
+      "name": "Spring Email Blast",
+      "channel": "email",
+      "spend": 1200.00,
+      "revenue": 8400.00,
+      "conversions": 156,
+      "impressions": 45000
+    },
+    {
+      "name": "Google Brand Search",
+      "channel": "paid_search",
+      "spend": 5600.00,
+      "revenue": 22400.00,
+      "conversions": 312,
+      "impressions": 128000
+    },
+    {
+      "name": "Meta Retargeting",
+      "channel": "paid_social",
+      "spend": 3200.00,
+      "revenue": 9600.00,
+      "conversions": 89,
+      "impressions": 250000
+    },
+    {
+      "name": "TikTok Awareness",
+      "channel": "paid_social",
+      "spend": 2800.00,
+      "revenue": 1400.00,
+      "conversions": 0,
+      "impressions": 520000
+    },
+    {
+      "name": "Direct Mail Q1",
+      "channel": "direct_mail",
+      "spend": 8500.00,
+      "revenue": 12750.00,
+      "conversions": 203,
+      "impressions": 15000
+    },
+    {
+      "name": "Affiliate Program",
+      "channel": "affiliate",
+      "spend": 0,
+      "revenue": 3200.00,
+      "conversions": 45,
+      "impressions": 0
+    }
+  ]
+}
